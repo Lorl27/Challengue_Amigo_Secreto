@@ -69,5 +69,25 @@ function agregarAmigo(){
 }
 
 
+function sortearAmigo(){
+    if(lista_amigos.length===0){
+        alert("ERROR. No has introducido ningún amigo.");
+        return;
+    }
+
+    let numeroRandom=Math.floor(Math.random()*(lista_amigos.length ) );
+
+    let amigoRandom=lista_amigos[numeroRandom];
+
+    const texto_resultado=document.querySelector("#resultado");
+
+    let li=document.createElement("li");
+    li.textContent=`¡El amigo/a secreto es: ${amigoRandom}!`;
+    texto_resultado.appendChild(li);
+
+    // texto_resultado.innerHTML = `<li>¡El amigo/a secreto es: <strong>${amigoRandom}</strong>!</li>`;
+}
+
+
 
 
