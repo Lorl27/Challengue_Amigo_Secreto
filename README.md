@@ -47,6 +47,8 @@ Este proyecto es una aplicación interactiva que permite a los usuarios crear un
 - **JavaScript:** Para la lógica de la aplicación y la interacción del usuario.
 
 ---
+### Si prefieres no instalarlo: [Click aquí para verlo online](https://sorteo-de-amigos.netlify.app/)
+---
 
 ## 📦 Instalación
 
