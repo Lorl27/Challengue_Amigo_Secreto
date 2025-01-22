@@ -48,6 +48,7 @@ Este proyecto es una aplicación interactiva que permite a los usuarios crear un
 
 ---
 ### Si prefieres no instalarlo: [Click aquí para verlo online](https://sorteo-de-amigos.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9259c43e-ce3e-4432-acb3-4a42d2fa353e/deploy-status)](https://app.netlify.com/sites/sorteo-de-amigos/deploys)
 ---
 
 ## 📦 Instalación
