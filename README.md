@@ -54,7 +54,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/amigo-secreto.git```
+   git clone https://github.com/tu_usuario/amigo-secreto.git
 2. **Abrir el proyecto**:
     Encuentra la carpeta del proyecto y abre el archivo ```index.html``` en tu Navegador de preferencia (Compatibilidad asegurada).
 
@@ -72,10 +72,10 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 ## ⚠️ Posibles problemas y soluciones
 
 **Problema: El botón *"Añadir"* no agrega nombres a la lista.**
-* \_Solución\_: Asegúrate de que el archivo app.js esté correctamente vinculado en el index.html y que no haya errores en la consola del navegador.
+* __Solución__: Asegúrate de que el archivo app.js esté correctamente vinculado en el index.html y que no haya errores en la consola del navegador.
 
 **Problema: El botón "Sortear Amigo" no muestra ningún resultado.**
-* \_Solución\_: Comprueba que la lista tenga *al menos* un nombre antes de hacer clic en el botón.
+* __Solución__: Comprueba que la lista tenga *al menos* un nombre antes de hacer clic en el botón.
 
 ---
 
@@ -94,4 +94,4 @@ Puedes usar, modificar y distribuir el código libremente, siempre y cuando se i
 ---
 
 ## 👩‍💻 Autora
-**Desarrollado con ❤️ por (Lorl27)[https://github.com/Lorl27].**
+**Desarrollado con ❤️ por [Lorl27](https://github.com/Lorl27).**
